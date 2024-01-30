@@ -1,0 +1,20 @@
+h1{
+    color: orange;
+    background-color:aquamarine
+}
+
+#purple{
+    color:brown;
+}
+/* to select id, use# */
+. black{
+    color:azure;
+}
+/* Resent code for main container*/
+.wrapper{
+    border: 2px dashed 
+    /* width: 1270px;*/
+     margin:0 auto;
+
+    }
+    
